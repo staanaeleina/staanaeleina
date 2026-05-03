@@ -2,7 +2,7 @@
 
 - 🎨 Passionate about creating minimalist and user-friendly digital experiences.
 - 🔭 Currently job seeking opportunities in UI/UX Design.
-- ⚡ Fun fact: I'm a portrait artist 🎨
+- ⚡ Fun fact: I'm a portrait artist ✏️
 
 #### My Skills 🧠
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)

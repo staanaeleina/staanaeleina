@@ -12,4 +12,4 @@
 <a href="https://ph.pinterest.com/leinnoar/"><img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white"></img></a>
 <a href="https://www.linkedin.com/in/eleina-sta-ana-1a3043357/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 
-<img align="left" height="300" src="https://i.imgur.com/Tznn1IZ.gif"/>
+<img align="left" height="200" src="https://i.imgur.com/Tznn1IZ.gif"/>

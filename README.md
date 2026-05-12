@@ -1,5 +1,3 @@
-# Hallo, I'm Eleina 🐣
-
 - 🎨 Passionate about creating minimalist and user-friendly digital experiences.
 - 🔭 Currently job seeking opportunities in UI/UX Design.
 - ⚡ Fun fact: I'm a portrait artist ✏️
